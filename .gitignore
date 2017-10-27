@@ -1,3 +1,9 @@
+/Debug
+/UDPReceiver
+/UDPSender
+*.sdf
+*.opendb
+
 # Compiled Object files
 *.slo
 *.lo
