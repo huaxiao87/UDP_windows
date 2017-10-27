@@ -1,6 +1,6 @@
 /Debug
-/UDPReceiver
-/UDPSender
+/UDPReceiver/Debug
+/UDPSender/Debug
 *.sdf
 *.opendb
 
