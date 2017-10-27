@@ -59,6 +59,9 @@ public:
 		}
 	}
 
+	char* getDataBuffer() { return dataBuffer; }
+	int getBufferLength() { return bufferLength; }
+
 private:
 	SOCKET serSocket;
 	char* dataBuffer;
